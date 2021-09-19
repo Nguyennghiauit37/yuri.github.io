@@ -7,9 +7,9 @@ nav.navbar.navbar-light.bg-faded.navbar-fixed-top {
 a.nav-link {
     font-family: segoe ui;
     text-transform: uppercase;
-    font-size: 13px;
+    font-size: 12px;
     color: #101010;
-    line-height: 80px;
+    line-height: 10px;
 }
 
 li.nav-item {
@@ -22,10 +22,10 @@ li.nav-item {
 nav.navbar.navbar-light.bg-faded {
     margin: 0;
     padding: 0;
-    height: 80px;
+    height: 120px;
 }
 
   @media (max-width:578px) {
       *{}
-  } 
+    } 
    
